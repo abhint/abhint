@@ -10,7 +10,7 @@
 ### About me;)
 
 - 🔭 **Learning python.**
-- 🕵️ **Reach me on Telegram - [@jithumon](https://t.me/jithumon)**
+- 🕵️ **Reach me on Telegram - [@thankappan369](https://t.me/thankappan369)**
 
 ---
 ### Status
