@@ -7,7 +7,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Abhijith-cloud)
 
 ---
-### About me;)
+### About me 😂
 
 - 📖 **Learning JavaScript ☕**
 - 🕵️ **Yes, I am Noob.**
