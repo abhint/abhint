@@ -1,7 +1,23 @@
 ### Hi there 👋
 
+
+
+[![telegram badge](https://img.shields.io/badge/-Abhijith-blue?style=flat&logo=telegram)](https://t.me/thankappan369)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Abhijith-cloud)
+
+---
+### About me;)
+
+- 🔭 **Learning python.**
+- 🕵️ **Reach me on Telegram - [@jithumon](https://t.me/jithumon)**
+
+---
+### Status
+![Git Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-cloud&theme=tokyonight&show_icons=true)
+
 <!--
-**Abhijith-cloud/Abhijith-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jithumon/jithumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
