@@ -9,8 +9,9 @@
 ---
 ### About me;)
 
-- 🔭 **Learning python.**
-- 🕵️ **Reach me on Telegram - [@thankappan369](https://t.me/thankappan369)**
+- 📖 **Learning JavaScript ☕**
+- 🕵️ **Yes, I am Noob.**
+- 📥 **Reach me on Telegram - [@thankappan369](https://t.me/thankappan369)**
 
 ---
 ### Status
