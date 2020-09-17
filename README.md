@@ -1,7 +1,7 @@
  # <a href="https://www.linkedin.com/in/abhijithnt/">ABHIJITH N T</a> :smiley:
 
- <a href="https://twitter.com/abhijithnt">
-  <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <a href="https://twitter.com/Abhijith_N_T">
+  <img align="left" alt="Abhijith's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhijithnt/">
   <img align="left" alt="Abhijith's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -50,18 +50,3 @@ I love coding. JavaScript is my favorite programming language. I am simple and s
 </a>
 
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-cloud&theme=tokyonight&show_icons=true)
-
-<!--
-**jithumon/jithumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
