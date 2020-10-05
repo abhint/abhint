@@ -50,3 +50,4 @@ I love coding. JavaScript is my favorite programming language. I am simple and s
 </a>
 
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-cloud&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-cloud&layout=compact)](https://github.com/Abhijith-cloud/github-readme-stats)
