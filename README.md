@@ -44,5 +44,4 @@ I love coding. JavaScript is my favorite programming language. I am simple and s
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 ---
-![Git Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-cloud&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-cloud&layout=compact)](https://github.com/Abhijith-cloud/github-readme-stats)
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Abhijith-cloud&show_icons=true&theme=tokyonight" /></p>
