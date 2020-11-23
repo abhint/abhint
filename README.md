@@ -1,5 +1,9 @@
  # <a href="https://www.linkedin.com/in/abhijithnt/">ABHIJITH N T</a> :smiley:
 
+
+![](https://komarev.com/ghpvc/?username=Abhijith-cloud&style=flat-square)
+
+
  <a href="https://twitter.com/Abhijith_N_T">
   <img align="left" alt="Abhijith's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
