@@ -1,11 +1,13 @@
 # ABHIJITH
 
 ---
+
 <p align="center">
  <b>
 I love coding. JavaScript is my favorite programming language. I am simple and strong. But sometimes I'm crazy.
   </b>
 </p>
+
 ---
 
 <p align="center">
