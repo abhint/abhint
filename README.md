@@ -8,11 +8,12 @@ f065af421e3ba3ea3396438833ddd605
 </div>
 
 ```py
- def aboutME(bio=""):
+def aboutME(bio=""):
     if bio:
         print(bio)
-        return
-    print("Bio not available")
+    else:
+        print("Bio not available")
+
 aboutME()
  ```
  ## 
