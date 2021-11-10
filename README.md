@@ -32,7 +32,7 @@ aboutME()
  ## 
 
 <p>
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhijithnt&show_icons=true&theme=tokyonight&include_all_commits=true" />
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AbhijithNT&show_icons=true&theme=tokyonight&include_all_commits=true" />
  <img width=41.6%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithNT&layout=compact&theme=tokyonight" />
 </p>
 
