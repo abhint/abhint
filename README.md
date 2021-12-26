@@ -7,6 +7,18 @@ f065af421e3ba3ea3396438833ddd605
 </p>
 </div>
 
+<p align="center">
+  <samp>
+    <a href="mailto:notifyabhijith@gmail.com">mail</a> .
+    <a href="https://www.facebook.com/abhint6">facebook</a> .
+    <a href="https://www.linkedin.com/in/abhijithnt">linkedin</a> .
+    <a href="https://twitter.com/abhint6">tweets</a> .
+    <a href="https://instagram.com/abhint6">instagram</a> .
+    <a href="https://telegram.me/abhint">telegram</a> .
+    <a href="https://hashnode.com/@abhint">hashnode</a> 
+  </samp>
+</p>
+
 ```py
 def aboutME(bio=""):
     if bio:
@@ -18,18 +30,7 @@ aboutME()
  ```
  ## 
  
- <div align="center">
-
- 
- 
-<p>
-<a href="https://www.facebook.com/iamabhijithnt/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/abhijith_n_t/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
- <a href="https://www.linkedin.com/in/abhijithnt/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://telegram.dog/thankappan369" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
- </p>
- 
- ## 
+<div align="center">
 
 <p>
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhint&show_icons=true&theme=tokyonight&include_all_commits=true" />
