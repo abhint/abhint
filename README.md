@@ -19,7 +19,7 @@ f065af421e3ba3ea3396438833ddd605
   </samp>
 </p>
 
-```py
+<!-- ```py
 def aboutME(bio=""):
     if bio:
         print(bio)
@@ -27,14 +27,11 @@ def aboutME(bio=""):
         print("Bio not available")
 
 aboutME()
- ```
- ## 
+ ``` -->
  
-<div align="center">
 
-<p>
+
+<!-- <p align="center">
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhint&show_icons=true&theme=tokyonight&include_all_commits=true" />
  <img width=41.6%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhint&layout=compact&theme=tokyonight" />
-</p>
-
-</div>
+                                                                                                                               </p> -->
