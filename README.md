@@ -11,7 +11,7 @@ f065af421e3ba3ea3396438833ddd605
   <samp>
     <a href="mailto:notifyabhijith@gmail.com">mail</a> .
     <a href="https://www.facebook.com/abhint6">facebook</a> .
-    <a href="https://www.linkedin.com/in/abhijithnt">linkedin</a> .
+    <a href="https://www.linkedin.com/in/abhint">linkedin</a> .
     <a href="https://twitter.com/abhint6">tweets</a> .
     <a href="https://instagram.com/abhint6">instagram</a> .
     <a href="https://telegram.me/abhint">telegram</a> .
@@ -19,15 +19,32 @@ f065af421e3ba3ea3396438833ddd605
   </samp>
 </p>
 
-<!-- ```py
-def aboutME(bio=""):
-    if bio:
-        print(bio)
-    else:
-        print("Bio not available")
+```py
+class Bio:
+    def __init__(self, hobbies, favorite_animal, activities):
+        self.hobbies = hobbies
+        self.favorite_animal = favorite_animal
+        self.activities = activities
 
-aboutME()
- ``` -->
+    def create_bio(self):
+        bio = (
+            f"Hi there! I'm someone who loves {', '.join(self.hobbies)}."
+            f" My favorite animal is {self.favorite_animal}."
+            f" I enjoy spending time with friends by {', '.join(self.activities)}."
+        )
+        return bio
+
+
+hobbies = ["coding", "exploring new technologies"]
+favorite_animal = "cats"
+activities = ["hanging out", "having fun"]
+
+
+my_bio = Bio(hobbies, favorite_animal, activities)
+bio_text = my_bio.create_bio()
+
+print(bio_text)
+```
  
 
 
