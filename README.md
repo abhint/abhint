@@ -1,54 +1,47 @@
 <div align="center">
 
-# Hi there :wave:, I'm Abhijth!
+# Hi, I'm Abhijith 👋
 
-<p>
-f065af421e3ba3ea3396438833ddd605
-</p>
+I enjoy coding, learning new technologies, and building things that are useful and meaningful.
+
 </div>
 
 <p align="center">
-  <samp>
-    <a href="mailto:notifyabhijith@gmail.com">mail</a> .
-    <a href="https://www.facebook.com/abhint6">facebook</a> .
-    <a href="https://www.linkedin.com/in/abhint">linkedin</a> .
-    <a href="https://twitter.com/abhint6">tweets</a> .
-    <a href="https://instagram.com/abhint6">instagram</a> .
-    <a href="https://telegram.me/abhint">telegram</a> .
-    <a href="https://hashnode.com/@abhint">hashnode</a> 
-  </samp>
+  <a href="mailto:notifyabhijith@gmail.com">Email</a> •
+  <a href="https://www.facebook.com/abhint6">Facebook</a> •
+  <a href="https://www.linkedin.com/in/abhint">LinkedIn</a> •
+  <a href="https://twitter.com/abhint6">Twitter</a> •
+  <a href="https://instagram.com/abhint6">Instagram</a> •
+  <a href="https://telegram.me/abhint">Telegram</a> •
+  <a href="https://hashnode.com/@abhint">Hashnode</a>
 </p>
 
-```py
-class Bio:
-    def __init__(self, hobbies, favorite_animal, activities):
-        self.hobbies = hobbies
-        self.favorite_animal = favorite_animal
-        self.activities = activities
+## About me
 
-    def create_bio(self):
-        bio = (
-            f"Hi there! I'm someone who loves {', '.join(self.hobbies)}."
-            f" My favorite animal is {self.favorite_animal}."
-            f" I enjoy spending time with friends by {', '.join(self.activities)}."
-        )
-        return bio
+I am a curious developer who loves exploring ideas, solving problems, and learning by doing. My main interests include:
 
+- coding
+- discovering new technologies
+- building practical projects
+- learning from people and communities
 
+## Quick bio
+
+```python
 hobbies = ["coding", "exploring new technologies"]
 favorite_animal = "cats"
 activities = ["hanging out", "having fun"]
 
-
-my_bio = Bio(hobbies, favorite_animal, activities)
-bio_text = my_bio.create_bio()
-
-print(bio_text)
+print("Hi! I love coding and exploring new technologies.")
+print(f"My favorite animal is {favorite_animal}.")
+print("I enjoy spending time with friends and having fun.")
 ```
- 
 
+## Let's connect
 
-<!-- <p align="center">
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhint&show_icons=true&theme=tokyonight&include_all_commits=true" />
- <img width=41.6%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhint&layout=compact&theme=tokyonight" />
-                                                                                                                               </p> -->
+If you want to collaborate, discuss ideas, or just say hello, feel free to reach out.
+
+- Email: notifyabhijith@gmail.com
+- Socials: links above
+
+Thanks for visiting my profile! 🚀
